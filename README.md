@@ -218,8 +218,16 @@ Vivekanandha College of Engineering for Women, Tiruchengode
 
 ## 📈 Contribution Activity
 
+## 📈 Contribution Activity
+
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MONISHA2006A&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph"/>
+  <img src="https://ghchart.rshah.org/38BDF8/MONISHA2006A" alt="Monisha's GitHub contribution graph" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MONISHA2006A?tab=overview">
+    <img src="https://img.shields.io/badge/View-My%20GitHub%20Activity-161B22?style=for-the-badge&logo=github" alt="View GitHub activity"/>
+  </a>
 </p>
 
 ---
